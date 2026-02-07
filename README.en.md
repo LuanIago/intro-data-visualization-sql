@@ -36,12 +36,12 @@ This repository is organized into **four folders**, each corresponding to an ass
 
 ```text
 intro-visualizacao-dados-sql/
-├── assignment-01-data-exploration-dashboard/
+├── trabalho-01-dashboard-de-exploração-de-dados-diversos/
 │   └── README.md
-├── assignment-02/
+├── trabalho-02/
 │   └── README.md
-├── assignment-03/
+├── trabalho-03/
 │   └── README.md
-├── assignment-04/
+├── trabalho-04/
 │   └── README.md
 └── README.md
