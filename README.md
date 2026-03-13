@@ -38,9 +38,9 @@ Este repositório está organizado em **quatro pastas**, cada uma correspondente
 intro-visualizacao-dados-sql/
 ├── trabalho-01-dashboard-de-exploração-de-dados-diversos/
 │   └── README.md
-├── trabalho-02/
+├── trabalho-02-relatório-interativo-e-compartilhavel/
 │   └── README.md
-├── trabalho-03/
+├── trabalho-03-recuperacao-e-filtragem-de-dados-com-sql/
 │   └── README.md
 ├── trabalho-04/
 │   └── README.md
