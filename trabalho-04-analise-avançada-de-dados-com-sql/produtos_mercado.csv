@@ -1,0 +1,301 @@
+﻿id_produto,nome_produto,categoria,marca,preco,estoque,status_venda
+1,Arroz 5kg Tradicional,Mercearia,GrãoBom,27.9,78,Disponível
+2,Sabão em Pó 1kg Plus,Limpeza,BrilhoMax,18.5,42,Disponível
+3,Refrigerante Cola 2L,Bebidas,Refresca,9.99,65,Promoção
+4,Shampoo 400ml,Higiene,FreshLine,21.9,18,Indisponível
+5,Lasanha Congelada Premium,Congelados,ProntoChef,29.9,33,Disponível
+6,Queijo Mussarela 200g,Laticínios,BomLeite,14.5,56,Disponível
+7,Banana Prata kg,Hortifruti,Campo Fresco,5.99,80,Promoção
+8,Pão de Forma,Padaria,Pão Dourado,8.75,61,Disponível
+9,Detergente 500ml,Limpeza,Casa Clara,3.49,120,Disponível
+10,Pizza Congelada,Congelados,FreezUp,24.9,12,Promoção
+11,Óleo de Soja 900ml,Mercearia,Essencial,22.41,57,Disponível
+12,Hambúrguer Bovino Premium,Congelados,ProntoChef,32.5,0,Disponível
+13,Banana Prata kg Econômico,Hortifruti,Horta Boa,9.68,65,Promoção
+14,Chá Gelado 1L,Bebidas,Refresca,4.19,1,Indisponível
+15,Água com Gás 500ml,Bebidas,Refresca,13.71,9,Disponível
+16,Água Sanitária 1L Tradicional,Limpeza,BrilhoMax,13.21,59,Disponível
+17,Bolo Simples Premium,Padaria,TrigoBom,7.69,46,Disponível
+18,Arroz 5kg Econômico,Mercearia,Sabor Real,10.38,87,Promoção
+19,Chá Gelado 1L,Bebidas,Refresca,3.73,67,Disponível
+20,Suco de Laranja 1L Premium,Bebidas,Água Viva,3.02,42,Promoção
+21,Banana Prata kg Tradicional,Hortifruti,Horta Boa,2.74,70,Promoção
+22,Molho de Tomate 300g,Mercearia,Essencial,8.9,40,Disponível
+23,Desodorante Aerosol Tradicional,Higiene,SuaveToque,17.19,0,Disponível
+24,Sabonete 90g Tradicional,Higiene,Vida Limpa,16.21,11,Indisponível
+25,Água com Gás 500ml Tradicional,Bebidas,SaborMais,2.67,69,Disponível
+26,Óleo de Soja 900ml,Mercearia,Mesa Cheia,18.19,76,Disponível
+27,Sabão em Pó 1kg Tradicional,Limpeza,LimpaTudo,2.95,61,Disponível
+28,Hambúrguer Bovino,Congelados,ProntoChef,36.33,53,Disponível
+29,Manteiga 200g Econômico,Laticínios,Vaca Feliz,15.21,40,Disponível
+30,Batata Pré-frita,Congelados,MaisPrático,31.52,0,Disponível
+31,Desodorante Aerosol Tradicional,Higiene,Vida Limpa,21.25,36,Disponível
+32,Chá Gelado 1L Econômico,Bebidas,FrutaMix,8.76,71,Disponível
+33,Detergente 500ml Tradicional,Limpeza,PuroLar,26.44,23,Promoção
+34,Manteiga 200g Premium,Laticínios,BomLeite,8.66,34,Disponível
+35,Detergente 500ml Tradicional,Limpeza,BrilhoMax,6.92,70,Disponível
+36,Macarrão 500g,Mercearia,Sabor Real,3.44,15,Indisponível
+37,Suco de Laranja 1L Tradicional,Bebidas,SaborMais,6.86,52,Promoção
+38,Água com Gás 500ml,Bebidas,FrutaMix,7.0,5,Indisponível
+39,Batata Pré-frita,Congelados,MaisPrático,36.78,43,Disponível
+40,Lasanha Congelada Plus,Congelados,ProntoChef,29.01,0,Disponível
+41,Detergente 500ml Plus,Limpeza,PuroLar,7.16,103,Disponível
+42,Tomate kg Plus,Hortifruti,Horta Boa,4.85,13,Indisponível
+43,Pão de Hambúrguer Plus,Padaria,Pão Dourado,10.47,35,Disponível
+44,Desinfetante 2L Econômico,Limpeza,LimpaTudo,6.68,39,Disponível
+45,Desodorante Aerosol,Higiene,Care+,18.43,1,Disponível
+46,Detergente 500ml Econômico,Limpeza,LimpaTudo,23.81,46,Disponível
+47,Esponja Multiuso,Limpeza,Casa Clara,18.52,66,Promoção
+48,Pão de Forma Premium,Padaria,TrigoBom,11.81,83,Disponível
+49,Torrada Integral,Padaria,Pão Dourado,8.87,25,Promoção
+50,Suco de Laranja 1L Tradicional,Bebidas,FrutaMix,12.44,35,Promoção
+51,Batata Inglesa kg Plus,Hortifruti,Verde Vivo,12.84,71,Disponível
+52,Tomate kg Econômico,Hortifruti,Horta Boa,2.09,15,Indisponível
+53,Biscoito Amanteigado Tradicional,Padaria,Sabor da Casa,8.36,89,Promoção
+54,Sabão em Pó 1kg Econômico,Limpeza,Casa Clara,17.66,12,Indisponível
+55,Molho de Tomate 300g Tradicional,Mercearia,Sabor Real,22.6,1,Indisponível
+56,Desinfetante 2L Econômico,Limpeza,LimpaTudo,3.71,60,Promoção
+57,Água Sanitária 1L,Limpeza,Casa Clara,12.7,100,Promoção
+58,"Água Mineral 1,5L Plus",Bebidas,FrutaMix,5.15,34,Promoção
+59,Pão de Hambúrguer Tradicional,Padaria,TrigoBom,6.61,51,Promoção
+60,Suco de Laranja 1L Econômico,Bebidas,Refresca,5.27,42,Disponível
+61,Papel Higiênico 12un Econômico,Higiene,SuaveToque,7.79,58,Disponível
+62,Pão de Queijo 1kg,Congelados,MaisPrático,20.23,30,Disponível
+63,Suco de Laranja 1L Econômico,Bebidas,Refresca,2.81,14,Disponível
+64,Refrigerante Cola 2L,Bebidas,FrutaMix,12.98,75,Promoção
+65,Torrada Integral Tradicional,Padaria,Forno Nobre,10.92,9,Indisponível
+66,Sabonete 90g Econômico,Higiene,SuaveToque,10.85,11,Indisponível
+67,Feijão Carioca 1kg Premium,Mercearia,Sabor Real,23.68,106,Disponível
+68,Torrada Integral Econômico,Padaria,Pão Dourado,17.71,9,Disponível
+69,Sabonete 90g Econômico,Higiene,Vida Limpa,13.07,38,Promoção
+70,Água Sanitária 1L,Limpeza,Casa Clara,10.45,88,Promoção
+71,Pão de Hambúrguer Econômico,Padaria,TrigoBom,15.64,69,Disponível
+72,"Água Mineral 1,5L",Bebidas,SaborMais,7.88,58,Disponível
+73,Chá Gelado 1L,Bebidas,Refresca,7.72,71,Disponível
+74,Água Sanitária 1L Tradicional,Limpeza,Casa Clara,18.2,102,Disponível
+75,Maçã Gala kg,Hortifruti,Horta Boa,7.15,17,Indisponível
+76,Shampoo 400ml,Higiene,Care+,9.6,76,Disponível
+77,Maçã Gala kg Premium,Hortifruti,Verde Vivo,13.93,9,Disponível
+78,Lasanha Congelada Tradicional,Congelados,Sabor Gelado,17.09,34,Disponível
+79,Macarrão 500g Tradicional,Mercearia,Essencial,15.36,68,Disponível
+80,Desinfetante 2L,Limpeza,BrilhoMax,10.9,0,Indisponível
+81,Chá Gelado 1L Tradicional,Bebidas,FrutaMix,3.61,19,Indisponível
+82,Arroz 5kg,Mercearia,Mesa Cheia,21.33,61,Disponível
+83,Sabão em Pó 1kg Plus,Limpeza,LimpaTudo,3.81,101,Disponível
+84,"Água Mineral 1,5L",Bebidas,Refresca,10.89,60,Disponível
+85,Papel Higiênico 12un,Higiene,Vida Limpa,13.59,52,Disponível
+86,Esponja Multiuso Tradicional,Limpeza,LimpaTudo,26.17,34,Disponível
+87,Tomate kg Tradicional,Hortifruti,Horta Boa,14.01,10,Disponível
+88,Manteiga 200g Premium,Laticínios,Vaca Feliz,15.02,39,Disponível
+89,Torrada Integral,Padaria,TrigoBom,11.25,25,Disponível
+90,Feijão Carioca 1kg Tradicional,Mercearia,GrãoBom,11.73,0,Promoção
+91,Sabonete 90g,Higiene,Care+,2.35,102,Promoção
+92,Shampoo 400ml Econômico,Higiene,FreshLine,21.96,19,Disponível
+93,Refrigerante Cola 2L Plus,Bebidas,Água Viva,5.5,38,Promoção
+94,Macarrão 500g,Mercearia,GrãoBom,11.59,65,Promoção
+95,Macarrão 500g Premium,Mercearia,GrãoBom,21.77,31,Disponível
+96,Sabonete 90g Tradicional,Higiene,FreshLine,6.88,35,Disponível
+97,Batata Inglesa kg,Hortifruti,Verde Vivo,3.72,114,Disponível
+98,Feijão Carioca 1kg Plus,Mercearia,GrãoBom,14.74,24,Disponível
+99,Tomate kg,Hortifruti,Campo Fresco,5.42,64,Disponível
+100,Esponja Multiuso Econômico,Limpeza,Casa Clara,26.8,69,Disponível
+101,Shampoo 400ml,Higiene,Vida Limpa,30.99,88,Disponível
+102,Leite Integral 1L,Laticínios,LeveCampo,10.11,50,Promoção
+103,Pão de Hambúrguer,Padaria,Forno Nobre,10.16,3,Indisponível
+104,Manteiga 200g Tradicional,Laticínios,LeveCampo,19.54,39,Disponível
+105,Torrada Integral Premium,Padaria,Sabor da Casa,11.93,69,Disponível
+106,Sabão em Pó 1kg,Limpeza,PuroLar,11.95,48,Disponível
+107,Torrada Integral Tradicional,Padaria,Forno Nobre,10.37,69,Promoção
+108,Chá Gelado 1L,Bebidas,Refresca,11.25,63,Promoção
+109,Manteiga 200g,Laticínios,LeveCampo,17.17,72,Disponível
+110,Batata Pré-frita Econômico,Congelados,ProntoChef,12.78,90,Promoção
+111,Banana Prata kg,Hortifruti,Naturalmente,6.67,31,Disponível
+112,Detergente 500ml Tradicional,Limpeza,Casa Clara,12.6,7,Indisponível
+113,Macarrão 500g,Mercearia,GrãoBom,5.4,21,Disponível
+114,Tomate kg Econômico,Hortifruti,Horta Boa,4.66,14,Indisponível
+115,Torrada Integral Premium,Padaria,Pão Dourado,8.01,63,Promoção
+116,Água com Gás 500ml Premium,Bebidas,Refresca,2.8,0,Promoção
+117,Detergente 500ml Premium,Limpeza,BrilhoMax,21.89,14,Indisponível
+118,Tomate kg,Hortifruti,Campo Fresco,13.43,93,Disponível
+119,Molho de Tomate 300g,Mercearia,Essencial,9.28,108,Disponível
+120,Leite Integral 1L Premium,Laticínios,Vaca Feliz,20.21,4,Indisponível
+121,Leite Integral 1L,Laticínios,Vaca Feliz,16.11,55,Disponível
+122,Chá Gelado 1L Plus,Bebidas,SaborMais,8.32,97,Disponível
+123,Shampoo 400ml Tradicional,Higiene,Vida Limpa,10.69,14,Indisponível
+124,Chá Gelado 1L Premium,Bebidas,FrutaMix,11.52,24,Disponível
+125,Água com Gás 500ml Econômico,Bebidas,Água Viva,7.27,55,Promoção
+126,Óleo de Soja 900ml,Mercearia,Essencial,13.27,4,Disponível
+127,Água Sanitária 1L Tradicional,Limpeza,BrilhoMax,27.06,22,Disponível
+128,Água com Gás 500ml Econômico,Bebidas,FrutaMix,12.49,82,Promoção
+129,Detergente 500ml,Limpeza,Casa Clara,12.83,32,Promoção
+130,Shampoo 400ml Tradicional,Higiene,Vida Limpa,26.66,9,Indisponível
+131,Chá Gelado 1L Econômico,Bebidas,SaborMais,12.32,59,Disponível
+132,Hambúrguer Bovino Tradicional,Congelados,ProntoChef,30.06,46,Disponível
+133,Macarrão 500g Plus,Mercearia,GrãoBom,28.14,48,Disponível
+134,Óleo de Soja 900ml Plus,Mercearia,Mesa Cheia,10.7,53,Disponível
+135,Tomate kg Tradicional,Hortifruti,Horta Boa,14.8,11,Disponível
+136,Água Sanitária 1L,Limpeza,BrilhoMax,19.68,89,Promoção
+137,Refrigerante Cola 2L Premium,Bebidas,Refresca,7.51,36,Disponível
+138,Molho de Tomate 300g Econômico,Mercearia,GrãoBom,23.21,88,Disponível
+139,Leite Integral 1L Econômico,Laticínios,Cremoso,11.94,47,Promoção
+140,Desinfetante 2L,Limpeza,Casa Clara,4.96,0,Disponível
+141,Manteiga 200g,Laticínios,BomLeite,13.18,26,Disponível
+142,Alface un,Hortifruti,Campo Fresco,5.93,65,Disponível
+143,Arroz 5kg Premium,Mercearia,Mesa Cheia,8.12,104,Disponível
+144,Sabão em Pó 1kg Econômico,Limpeza,BrilhoMax,25.82,29,Disponível
+145,Shampoo 400ml Premium,Higiene,SuaveToque,4.31,87,Promoção
+146,Papel Higiênico 12un,Higiene,Care+,30.28,60,Promoção
+147,Maçã Gala kg Tradicional,Hortifruti,Naturalmente,11.08,60,Disponível
+148,Água com Gás 500ml Premium,Bebidas,FrutaMix,9.48,87,Promoção
+149,Pão de Forma Plus,Padaria,Sabor da Casa,11.55,117,Promoção
+150,Biscoito Amanteigado Premium,Padaria,Pão Dourado,15.16,41,Disponível
+151,Pão de Queijo 1kg Tradicional,Congelados,FreezUp,15.47,2,Disponível
+152,Maçã Gala kg,Hortifruti,Campo Fresco,11.31,35,Disponível
+153,Desodorante Aerosol Tradicional,Higiene,FreshLine,2.71,67,Disponível
+154,Macarrão 500g Tradicional,Mercearia,Essencial,23.47,100,Disponível
+155,Iogurte Natural 170g Tradicional,Laticínios,Vaca Feliz,16.74,81,Disponível
+156,Pão de Hambúrguer Tradicional,Padaria,Pão Dourado,9.83,48,Disponível
+157,Água Sanitária 1L,Limpeza,PuroLar,16.24,69,Disponível
+158,Iogurte Natural 170g Econômico,Laticínios,LeveCampo,8.69,56,Disponível
+159,Detergente 500ml Plus,Limpeza,BrilhoMax,12.27,103,Disponível
+160,Iogurte Natural 170g,Laticínios,Vaca Feliz,6.75,17,Promoção
+161,Requeijão 250g,Laticínios,Vaca Feliz,11.74,45,Promoção
+162,"Água Mineral 1,5L Tradicional",Bebidas,SaborMais,6.0,14,Disponível
+163,Tomate kg,Hortifruti,Horta Boa,9.73,29,Promoção
+164,Hambúrguer Bovino,Congelados,FreezUp,18.7,41,Disponível
+165,Detergente 500ml Premium,Limpeza,Casa Clara,15.75,83,Promoção
+166,Batata Inglesa kg Plus,Hortifruti,Verde Vivo,4.79,18,Indisponível
+167,Manteiga 200g Plus,Laticínios,BomLeite,16.18,58,Disponível
+168,Bolo Simples,Padaria,TrigoBom,7.46,74,Disponível
+169,Detergente 500ml Premium,Limpeza,PuroLar,17.72,80,Promoção
+170,Arroz 5kg Tradicional,Mercearia,Sabor Real,3.05,22,Promoção
+171,"Água Mineral 1,5L",Bebidas,SaborMais,8.3,14,Disponível
+172,Leite Integral 1L Plus,Laticínios,Cremoso,9.39,26,Disponível
+173,Bolo Simples,Padaria,Forno Nobre,3.17,87,Disponível
+174,"Água Mineral 1,5L Premium",Bebidas,FrutaMix,6.17,77,Disponível
+175,Bolo Simples,Padaria,Pão Dourado,11.82,58,Disponível
+176,Suco de Laranja 1L Econômico,Bebidas,Água Viva,9.61,72,Disponível
+177,Creme Dental 90g Plus,Higiene,SuaveToque,7.57,58,Disponível
+178,Bolo Simples,Padaria,TrigoBom,16.15,70,Disponível
+179,Esponja Multiuso Premium,Limpeza,Casa Clara,26.27,58,Disponível
+180,Shampoo 400ml,Higiene,SuaveToque,19.67,19,Disponível
+181,Iogurte Natural 170g,Laticínios,LeveCampo,6.9,16,Indisponível
+182,Torrada Integral Plus,Padaria,Forno Nobre,16.46,83,Disponível
+183,Shampoo 400ml Plus,Higiene,FreshLine,8.33,45,Promoção
+184,Esponja Multiuso Tradicional,Limpeza,BrilhoMax,2.56,34,Promoção
+185,Shampoo 400ml Premium,Higiene,Vida Limpa,24.55,76,Promoção
+186,Desodorante Aerosol Premium,Higiene,Vida Limpa,30.66,56,Disponível
+187,Macarrão 500g Plus,Mercearia,GrãoBom,4.88,75,Disponível
+188,Macarrão 500g Plus,Mercearia,GrãoBom,15.93,0,Indisponível
+189,Queijo Mussarela 200g Econômico,Laticínios,Cremoso,4.23,6,Indisponível
+190,Óleo de Soja 900ml Plus,Mercearia,Mesa Cheia,17.26,40,Disponível
+191,Shampoo 400ml Plus,Higiene,SuaveToque,8.23,52,Promoção
+192,Maçã Gala kg Tradicional,Hortifruti,Verde Vivo,2.83,105,Disponível
+193,Esponja Multiuso Tradicional,Limpeza,LimpaTudo,27.66,40,Promoção
+194,Refrigerante Cola 2L Plus,Bebidas,Água Viva,5.8,0,Promoção
+195,Biscoito Amanteigado Premium,Padaria,TrigoBom,13.86,73,Disponível
+196,Chá Gelado 1L Econômico,Bebidas,SaborMais,11.05,48,Promoção
+197,Sabão em Pó 1kg Premium,Limpeza,BrilhoMax,26.08,28,Disponível
+198,Água Sanitária 1L Premium,Limpeza,PuroLar,5.58,55,Disponível
+199,Óleo de Soja 900ml,Mercearia,Sabor Real,8.0,24,Disponível
+200,Leite Integral 1L Econômico,Laticínios,LeveCampo,12.28,62,Disponível
+201,Desinfetante 2L Premium,Limpeza,Casa Clara,3.69,91,Disponível
+202,Sabonete 90g Tradicional,Higiene,FreshLine,25.54,61,Disponível
+203,Arroz 5kg Premium,Mercearia,Sabor Real,11.08,87,Disponível
+204,Papel Higiênico 12un Econômico,Higiene,FreshLine,30.48,88,Disponível
+205,Papel Higiênico 12un Plus,Higiene,Care+,16.58,47,Promoção
+206,Arroz 5kg Plus,Mercearia,Mesa Cheia,29.65,10,Indisponível
+207,Feijão Carioca 1kg Tradicional,Mercearia,Mesa Cheia,14.76,52,Promoção
+208,Papel Higiênico 12un Tradicional,Higiene,Vida Limpa,16.57,0,Promoção
+209,Chá Gelado 1L Tradicional,Bebidas,SaborMais,7.02,17,Disponível
+210,"Água Mineral 1,5L Premium",Bebidas,Água Viva,8.28,54,Promoção
+211,Pão de Queijo 1kg Plus,Congelados,Sabor Gelado,21.23,68,Disponível
+212,Sabonete 90g Tradicional,Higiene,SuaveToque,13.71,0,Promoção
+213,Suco de Laranja 1L,Bebidas,Água Viva,9.56,15,Promoção
+214,Shampoo 400ml Premium,Higiene,SuaveToque,8.04,13,Disponível
+215,Maçã Gala kg Plus,Hortifruti,Campo Fresco,12.09,4,Indisponível
+216,Iogurte Natural 170g,Laticínios,Cremoso,14.59,16,Disponível
+217,Bolo Simples,Padaria,TrigoBom,6.71,77,Disponível
+218,Banana Prata kg Premium,Hortifruti,Naturalmente,5.1,31,Disponível
+219,Iogurte Natural 170g Tradicional,Laticínios,BomLeite,18.56,49,Disponível
+220,Arroz 5kg Premium,Mercearia,Mesa Cheia,14.3,13,Indisponível
+221,Suco de Laranja 1L Plus,Bebidas,SaborMais,8.14,43,Disponível
+222,Torrada Integral,Padaria,Sabor da Casa,12.17,63,Disponível
+223,"Água Mineral 1,5L Econômico",Bebidas,Refresca,13.98,28,Disponível
+224,Sabão em Pó 1kg Plus,Limpeza,Casa Clara,10.23,42,Disponível
+225,Pão de Hambúrguer Tradicional,Padaria,TrigoBom,16.69,68,Promoção
+226,Detergente 500ml Premium,Limpeza,BrilhoMax,17.17,60,Disponível
+227,Batata Pré-frita Econômico,Congelados,MaisPrático,13.71,32,Disponível
+228,Desodorante Aerosol Tradicional,Higiene,Care+,17.78,62,Promoção
+229,Manteiga 200g,Laticínios,BomLeite,7.57,41,Disponível
+230,Banana Prata kg Premium,Hortifruti,Naturalmente,7.6,20,Disponível
+231,Torrada Integral,Padaria,Pão Dourado,12.22,71,Disponível
+232,Arroz 5kg Tradicional,Mercearia,Sabor Real,11.58,0,Disponível
+233,Desinfetante 2L Tradicional,Limpeza,LimpaTudo,25.58,98,Disponível
+234,Creme Dental 90g,Higiene,Care+,30.32,14,Indisponível
+235,Pão de Hambúrguer Premium,Padaria,Pão Dourado,7.56,0,Disponível
+236,Detergente 500ml,Limpeza,BrilhoMax,18.05,52,Disponível
+237,Suco de Laranja 1L,Bebidas,Água Viva,3.0,0,Disponível
+238,Iogurte Natural 170g,Laticínios,BomLeite,8.72,94,Disponível
+239,Desodorante Aerosol,Higiene,Care+,3.61,25,Disponível
+240,Água com Gás 500ml Tradicional,Bebidas,Água Viva,13.4,75,Promoção
+241,Molho de Tomate 300g Econômico,Mercearia,GrãoBom,12.7,61,Promoção
+242,Chá Gelado 1L Premium,Bebidas,FrutaMix,6.82,65,Disponível
+243,Óleo de Soja 900ml,Mercearia,Sabor Real,24.55,0,Disponível
+244,Alface un Premium,Hortifruti,Horta Boa,5.56,29,Disponível
+245,Pão de Forma Tradicional,Padaria,Forno Nobre,8.56,37,Promoção
+246,Queijo Mussarela 200g Premium,Laticínios,LeveCampo,16.69,24,Disponível
+247,Hambúrguer Bovino Tradicional,Congelados,FreezUp,9.26,41,Disponível
+248,Macarrão 500g Plus,Mercearia,Mesa Cheia,5.93,40,Disponível
+249,Molho de Tomate 300g Econômico,Mercearia,GrãoBom,12.63,46,Disponível
+250,Arroz 5kg,Mercearia,GrãoBom,18.21,109,Promoção
+251,Macarrão 500g Premium,Mercearia,Sabor Real,25.34,61,Disponível
+252,Alface un Plus,Hortifruti,Naturalmente,6.6,73,Disponível
+253,Batata Pré-frita Premium,Congelados,ProntoChef,35.04,92,Disponível
+254,Sabonete 90g,Higiene,Vida Limpa,16.41,44,Disponível
+255,Queijo Mussarela 200g Tradicional,Laticínios,LeveCampo,14.52,31,Promoção
+256,Sabão em Pó 1kg Tradicional,Limpeza,BrilhoMax,10.06,76,Promoção
+257,Pão de Queijo 1kg Premium,Congelados,FreezUp,11.28,26,Disponível
+258,Pão de Forma Tradicional,Padaria,TrigoBom,9.61,54,Promoção
+259,Papel Higiênico 12un Econômico,Higiene,Care+,17.05,98,Promoção
+260,Desodorante Aerosol Premium,Higiene,Vida Limpa,4.33,18,Disponível
+261,Batata Pré-frita Plus,Congelados,MaisPrático,22.61,43,Disponível
+262,Arroz 5kg Tradicional,Mercearia,Mesa Cheia,17.83,37,Disponível
+263,Água com Gás 500ml,Bebidas,FrutaMix,13.82,56,Disponível
+264,Feijão Carioca 1kg Tradicional,Mercearia,Essencial,22.03,34,Promoção
+265,Alface un,Hortifruti,Horta Boa,14.55,87,Disponível
+266,Água Sanitária 1L Plus,Limpeza,PuroLar,8.27,42,Disponível
+267,Refrigerante Cola 2L Plus,Bebidas,SaborMais,9.77,35,Disponível
+268,Pão de Queijo 1kg Tradicional,Congelados,Sabor Gelado,22.36,63,Disponível
+269,Shampoo 400ml Premium,Higiene,Vida Limpa,26.89,80,Disponível
+270,Pão de Hambúrguer,Padaria,TrigoBom,7.16,88,Promoção
+271,Arroz 5kg Premium,Mercearia,Mesa Cheia,16.65,19,Promoção
+272,Chá Gelado 1L Plus,Bebidas,SaborMais,9.26,4,Disponível
+273,Shampoo 400ml,Higiene,Care+,22.59,46,Disponível
+274,Manteiga 200g Econômico,Laticínios,BomLeite,12.34,39,Disponível
+275,Batata Inglesa kg Tradicional,Hortifruti,Verde Vivo,10.22,30,Disponível
+276,Sabão em Pó 1kg,Limpeza,BrilhoMax,9.91,41,Promoção
+277,Óleo de Soja 900ml Premium,Mercearia,Essencial,14.05,57,Disponível
+278,Manteiga 200g Premium,Laticínios,LeveCampo,16.54,37,Disponível
+279,Macarrão 500g,Mercearia,GrãoBom,29.55,85,Disponível
+280,Hambúrguer Bovino Econômico,Congelados,MaisPrático,37.62,1,Indisponível
+281,Pão de Hambúrguer,Padaria,Pão Dourado,10.88,40,Disponível
+282,Refrigerante Cola 2L,Bebidas,Refresca,10.52,77,Promoção
+283,Requeijão 250g,Laticínios,Cremoso,21.71,76,Disponível
+284,Torrada Integral Tradicional,Padaria,Sabor da Casa,7.6,51,Promoção
+285,Queijo Mussarela 200g Econômico,Laticínios,BomLeite,13.96,11,Indisponível
+286,Molho de Tomate 300g Premium,Mercearia,Mesa Cheia,6.77,12,Indisponível
+287,Biscoito Amanteigado,Padaria,Forno Nobre,9.38,17,Indisponível
+288,Batata Inglesa kg,Hortifruti,Verde Vivo,9.94,0,Disponível
+289,Esponja Multiuso,Limpeza,LimpaTudo,27.16,55,Disponível
+290,Refrigerante Cola 2L Tradicional,Bebidas,FrutaMix,10.33,78,Promoção
+291,Shampoo 400ml Premium,Higiene,Vida Limpa,28.01,37,Disponível
+292,Lasanha Congelada Premium,Congelados,MaisPrático,33.91,56,Disponível
+293,Creme Dental 90g Econômico,Higiene,SuaveToque,28.98,59,Disponível
+294,Macarrão 500g Tradicional,Mercearia,Essencial,22.29,26,Disponível
+295,Maçã Gala kg Premium,Hortifruti,Verde Vivo,15.42,17,Indisponível
+296,Sabão em Pó 1kg Premium,Limpeza,BrilhoMax,7.93,73,Promoção
+297,Água Sanitária 1L Premium,Limpeza,LimpaTudo,5.95,108,Disponível
+298,Refrigerante Cola 2L,Bebidas,Refresca,3.21,9,Indisponível
+299,Arroz 5kg Tradicional,Mercearia,Essencial,4.48,35,Disponível
+300,Shampoo 400ml Premium,Higiene,FreshLine,31.53,97,Promoção

@@ -1,0 +1,301 @@
+﻿id_funcionario,nome_funcionario,setor,cidade,estado,idade,salario,status_ativo
+1,Marina Alves,Tecnologia,São Paulo,SP,41,7800.0,SIM
+2,Carlos Mendes,Financeiro,Rio de Janeiro,RJ,38,6100.0,SIM
+3,Patrícia Rocha,RH,Belo Horizonte,MG,29,4700.0,SIM
+4,Diego Lima,Operações,Curitiba,PR,33,3900.0,SIM
+5,Fernanda Costa,Jurídico,São Paulo,SP,45,9200.0,SIM
+6,João Ribeiro,Comercial,Niterói,RJ,27,4300.0,SIM
+7,Bianca Souza,Marketing,Uberlândia,MG,31,5200.0,SIM
+8,Lucas Nunes,Operações,Campinas,SP,24,3200.0,SIM
+9,Helena Martins,Tecnologia,Juiz de Fora,MG,37,6900.0,SIM
+10,Rafael Barbosa,Comercial,Curitiba,PR,28,4100.0,SIM
+11,Nicolas Gomes,Tecnologia,Petrópolis,RJ,36,6308.52,SIM
+12,Quezia Barbosa,Operações,Uberlândia,MG,52,4298.81,NAO
+13,Juliana Ferreira,Comercial,Rio de Janeiro,RJ,34,6052.38,SIM
+14,Mônica Costa,Marketing,Curitiba,PR,42,3694.54,SIM
+15,Bruno Ribeiro,RH,Ribeirão Preto,SP,30,4214.93,SIM
+16,Felipe Ribeiro,Financeiro,Vitória da Conquista,BA,45,6595.05,SIM
+17,Bianca Rodrigues,Tecnologia,Curitiba,PR,31,5906.96,SIM
+18,Olivia Silva,Financeiro,Belo Horizonte,MG,42,4197.86,SIM
+19,Karen Ribeiro,Tecnologia,Niterói,RJ,44,7377.35,SIM
+20,Paulo Ribeiro,Tecnologia,Salvador,BA,39,7392.49,SIM
+21,Patrícia Gomes,RH,Londrina,PR,42,2682.74,NAO
+22,João Almeida,Operações,São Paulo,SP,22,5524.98,SIM
+23,Otávio Barbosa,RH,Ribeirão Preto,SP,38,5773.29,SIM
+24,Ursula Costa,RH,Duque de Caxias,RJ,31,4565.08,SIM
+25,Quezia Oliveira,Tecnologia,São Paulo,SP,48,7940.24,SIM
+26,Eduarda Lima,Jurídico,Maringá,PR,49,6454.26,SIM
+27,Yasmin Martins,Operações,Contagem,MG,27,3325.12,SIM
+28,Henrique Martins,RH,Feira de Santana,BA,55,4969.49,SIM
+29,Carla Nunes,Financeiro,Curitiba,PR,18,6161.94,SIM
+30,Leonardo Nunes,Jurídico,Niterói,RJ,34,6122.04,SIM
+31,Otávio Silva,Operações,Caxias do Sul,RS,36,3154.18,SIM
+32,Mônica Pereira,Tecnologia,Maringá,PR,33,6984.86,SIM
+33,Wesley Oliveira,Jurídico,Curitiba,PR,50,5386.16,SIM
+34,Bianca Ribeiro,RH,Vitória da Conquista,BA,24,4295.29,SIM
+35,Otávio Costa,Comercial,São Paulo,SP,18,5361.39,SIM
+36,João Lima,Marketing,Niterói,RJ,46,5419.4,SIM
+37,Mariana Gomes,Tecnologia,Feira de Santana,BA,44,5631.83,SIM
+38,Ursula Costa,Operações,Porto Alegre,RS,26,3273.43,NAO
+39,Lucas Ribeiro,Operações,Uberlândia,MG,41,5261.08,SIM
+40,Mônica Ribeiro,Marketing,Curitiba,PR,42,4448.27,SIM
+41,Bruno Pereira,Financeiro,Londrina,PR,44,6922.81,SIM
+42,Quezia Rodrigues,Comercial,Rio de Janeiro,RJ,40,4278.59,SIM
+43,Mariana Ribeiro,Marketing,Curitiba,PR,32,4311.64,SIM
+44,Amanda Almeida,Tecnologia,Campinas,SP,34,8276.91,SIM
+45,Mariana Barbosa,Comercial,Contagem,MG,34,2891.04,SIM
+46,Helena Oliveira,RH,Londrina,PR,61,6466.86,SIM
+47,Natália Ribeiro,Jurídico,Belo Horizonte,MG,37,6569.22,SIM
+48,Juliana Lima,Comercial,Salvador,BA,36,4574.75,NAO
+49,Wesley Araújo,RH,Maringá,PR,21,4271.58,SIM
+50,Quezia Barbosa,Comercial,Uberlândia,MG,54,2913.92,SIM
+51,Rafael Araújo,Tecnologia,Maringá,PR,25,7678.89,SIM
+52,João Ferreira,Operações,Vitória da Conquista,BA,36,4759.11,SIM
+53,Igor Pereira,Comercial,Santos,SP,24,5912.76,NAO
+54,Natália Silva,Financeiro,Ribeirão Preto,SP,42,5449.38,SIM
+55,Carla Oliveira,Comercial,Curitiba,PR,30,4714.78,SIM
+56,Rafael Nunes,Jurídico,Juiz de Fora,MG,34,7955.34,SIM
+57,Mariana Barbosa,Operações,Niterói,RJ,27,4843.6,SIM
+58,Lucas Gomes,Marketing,Ribeirão Preto,SP,33,5033.5,SIM
+59,Henrique Martins,RH,Contagem,MG,25,4556.07,SIM
+60,Amanda Ribeiro,Comercial,Curitiba,PR,26,4195.35,SIM
+61,Isabela Santos,Operações,Niterói,RJ,27,5586.99,SIM
+62,Felipe Ribeiro,Financeiro,Salvador,BA,29,4638.63,SIM
+63,Fernanda Almeida,Marketing,Porto Alegre,RS,37,3958.95,NAO
+64,Juliana Ferreira,Financeiro,Niterói,RJ,34,5487.73,SIM
+65,Patrícia Almeida,RH,Salvador,BA,37,5425.08,SIM
+66,Paulo Nunes,Tecnologia,Feira de Santana,BA,31,5782.72,NAO
+67,Sabrina Santos,Marketing,Contagem,MG,33,4109.22,SIM
+68,Lucas Ferreira,Financeiro,Feira de Santana,BA,29,6446.98,NAO
+69,Lucas Silva,Financeiro,Niterói,RJ,37,5752.37,SIM
+70,Gustavo Oliveira,Financeiro,Salvador,BA,28,5661.9,SIM
+71,Helena Oliveira,Operações,Duque de Caxias,RJ,30,2858.49,SIM
+72,Eduarda Lima,RH,Cascavel,PR,41,3820.18,SIM
+73,Rafael Silva,Comercial,Porto Alegre,RS,48,4536.75,SIM
+74,Ursula Araújo,Jurídico,Ribeirão Preto,SP,29,8164.5,NAO
+75,Paulo Barbosa,Tecnologia,Campinas,SP,33,5463.37,SIM
+76,Gustavo Silva,Financeiro,Porto Alegre,RS,37,6229.21,SIM
+77,Patrícia Souza,Tecnologia,Porto Alegre,RS,40,6033.14,NAO
+78,Daniel Barbosa,Operações,Belo Horizonte,MG,55,2570.63,SIM
+79,Bruno Ferreira,Marketing,Duque de Caxias,RJ,26,5696.31,NAO
+80,Enzo Araújo,Marketing,Duque de Caxias,RJ,42,3332.2,SIM
+81,Helena Lima,Tecnologia,Feira de Santana,BA,30,6114.38,SIM
+82,Zuleica Souza,Marketing,Belo Horizonte,MG,35,3203.61,SIM
+83,Leonardo Martins,Tecnologia,Ribeirão Preto,SP,36,6574.95,SIM
+84,Débora Martins,Marketing,Juiz de Fora,MG,26,5435.13,SIM
+85,João Almeida,Operações,Maringá,PR,30,4202.13,SIM
+86,Bruno Nunes,RH,Campinas,SP,40,3615.07,SIM
+87,Carla Ribeiro,Marketing,Rio de Janeiro,RJ,30,4385.54,SIM
+88,Gabriela Nunes,Comercial,Cascavel,PR,46,5159.04,SIM
+89,Isabela Araújo,Financeiro,Juiz de Fora,MG,39,6007.32,SIM
+90,Amanda Santos,RH,Feira de Santana,BA,47,5500.33,NAO
+91,Nicolas Araújo,Operações,Cascavel,PR,28,3517.69,SIM
+92,Sabrina Barbosa,Tecnologia,Juiz de Fora,MG,48,6635.46,SIM
+93,Enzo Martins,Comercial,Campinas,SP,35,5687.09,NAO
+94,Olivia Ferreira,Tecnologia,Rio de Janeiro,RJ,50,5674.84,SIM
+95,Gustavo Martins,Tecnologia,Curitiba,PR,49,5038.63,SIM
+96,Amanda Lima,Financeiro,Juiz de Fora,MG,31,4589.21,NAO
+97,Nicolas Barbosa,Jurídico,Rio de Janeiro,RJ,38,5565.85,SIM
+98,Isabela Costa,Financeiro,Petrópolis,RJ,29,4621.33,SIM
+99,Vinicius Rodrigues,Comercial,Uberlândia,MG,45,4317.78,SIM
+100,Bruno Souza,Tecnologia,Santos,SP,42,7292.09,NAO
+101,Yasmin Barbosa,Operações,Cascavel,PR,41,2318.35,SIM
+102,Mônica Souza,RH,Londrina,PR,51,4852.07,SIM
+103,Igor Souza,Tecnologia,Campinas,SP,28,6590.87,SIM
+104,Quezia Martins,Financeiro,Santos,SP,30,6345.32,NAO
+105,Caio Rodrigues,Tecnologia,Campinas,SP,32,6673.86,SIM
+106,Quezia Lima,Marketing,São Paulo,SP,36,5982.43,NAO
+107,Eduarda Ferreira,Financeiro,Niterói,RJ,28,6044.16,SIM
+108,Wesley Barbosa,Tecnologia,Ribeirão Preto,SP,33,6836.26,NAO
+109,Nicolas Silva,Financeiro,Caxias do Sul,RS,37,4464.79,SIM
+110,Carla Martins,RH,Belo Horizonte,MG,23,4424.53,SIM
+111,Ana Santos,Tecnologia,Pelotas,RS,38,5868.1,SIM
+112,Ursula Gomes,Financeiro,Santos,SP,26,5007.67,SIM
+113,Bruno Gomes,Financeiro,Salvador,BA,39,5023.86,SIM
+114,Vinicius Barbosa,Tecnologia,Contagem,MG,34,4646.81,SIM
+115,Caio Rodrigues,Comercial,Belo Horizonte,MG,39,5839.9,SIM
+116,Yasmin Barbosa,RH,Cascavel,PR,25,4305.3,SIM
+117,Ursula Almeida,Financeiro,Santos,SP,49,3244.68,SIM
+118,Gustavo Barbosa,Comercial,Niterói,RJ,32,4534.43,SIM
+119,Bruno Araújo,Tecnologia,Curitiba,PR,31,5667.15,SIM
+120,Yasmin Barbosa,Marketing,Juiz de Fora,MG,19,4782.7,SIM
+121,Enzo Barbosa,Financeiro,Uberlândia,MG,27,5498.22,SIM
+122,Carla Martins,Operações,Cascavel,PR,42,4833.34,NAO
+123,Paulo Silva,Tecnologia,Porto Alegre,RS,25,6912.73,SIM
+124,Eduarda Nunes,Tecnologia,Pelotas,RS,37,7062.1,SIM
+125,Lucas Costa,Tecnologia,Duque de Caxias,RJ,24,5655.69,SIM
+126,Zuleica Ribeiro,Tecnologia,Londrina,PR,18,6794.46,SIM
+127,Mônica Oliveira,Tecnologia,Maringá,PR,24,5033.31,NAO
+128,Henrique Gomes,Jurídico,Santos,SP,32,5207.04,SIM
+129,Olivia Martins,Tecnologia,Belo Horizonte,MG,37,5994.22,SIM
+130,Wesley Lima,Financeiro,São Paulo,SP,40,7040.46,NAO
+131,Otávio Martins,Jurídico,Vitória da Conquista,BA,30,6479.14,SIM
+132,Ana Pereira,Tecnologia,Petrópolis,RJ,18,6044.98,SIM
+133,Juliana Pereira,Comercial,Campinas,SP,37,3266.79,NAO
+134,Karen Oliveira,Comercial,Salvador,BA,43,4789.43,SIM
+135,Vinicius Ferreira,RH,Curitiba,PR,26,4547.63,SIM
+136,Gustavo Santos,Operações,Belo Horizonte,MG,51,4757.52,SIM
+137,Bruno Oliveira,Operações,Uberlândia,MG,21,4799.59,NAO
+138,Rafael Nunes,Financeiro,Santos,SP,18,6764.03,SIM
+139,Thiago Oliveira,Operações,Uberlândia,MG,47,4504.7,SIM
+140,Mariana Ribeiro,RH,Uberlândia,MG,49,5867.61,SIM
+141,Enzo Gomes,Tecnologia,Contagem,MG,59,5758.27,SIM
+142,Karen Pereira,Financeiro,Vitória da Conquista,BA,31,5728.19,SIM
+143,Ana Santos,Comercial,Duque de Caxias,RJ,24,3969.76,SIM
+144,Mônica Rodrigues,Financeiro,Rio de Janeiro,RJ,25,5158.93,SIM
+145,Lucas Almeida,Jurídico,Porto Alegre,RS,18,7027.76,SIM
+146,Enzo Oliveira,Jurídico,Niterói,RJ,37,9649.44,SIM
+147,Bianca Santos,Marketing,Petrópolis,RJ,38,3264.24,SIM
+148,Vinicius Oliveira,Comercial,Londrina,PR,30,4621.08,SIM
+149,Zuleica Santos,Tecnologia,Campinas,SP,18,5750.76,NAO
+150,Leonardo Souza,Comercial,Niterói,RJ,32,4624.01,SIM
+151,Wesley Barbosa,Tecnologia,Rio de Janeiro,RJ,25,6295.01,NAO
+152,Carla Pereira,Comercial,Campinas,SP,18,3872.0,NAO
+153,Daniel Silva,Marketing,Porto Alegre,RS,41,4208.65,SIM
+154,João Costa,Marketing,Petrópolis,RJ,38,5754.94,SIM
+155,Sabrina Costa,Jurídico,Contagem,MG,35,5501.3,SIM
+156,Leonardo Ferreira,Comercial,Santos,SP,37,3291.62,SIM
+157,Quezia Ribeiro,Comercial,Juiz de Fora,MG,42,4010.43,SIM
+158,Daniel Souza,Operações,Contagem,MG,22,3519.04,SIM
+159,Quezia Gomes,Financeiro,Campinas,SP,23,5334.19,SIM
+160,Wesley Araújo,Financeiro,Salvador,BA,24,5577.62,SIM
+161,Karen Barbosa,Financeiro,Campinas,SP,24,5750.35,SIM
+162,Eduarda Ribeiro,Marketing,Uberlândia,MG,45,4107.83,SIM
+163,Ursula Pereira,Operações,Ribeirão Preto,SP,58,3322.93,SIM
+164,Thiago Ferreira,Comercial,São Paulo,SP,25,4718.99,NAO
+165,Isabela Martins,Comercial,Juiz de Fora,MG,40,3286.91,SIM
+166,Juliana Ferreira,Operações,Juiz de Fora,MG,29,3213.19,SIM
+167,Felipe Almeida,Tecnologia,Ribeirão Preto,SP,34,6813.12,SIM
+168,João Silva,Jurídico,Santos,SP,18,8990.88,SIM
+169,Fernanda Pereira,Tecnologia,Ribeirão Preto,SP,36,6770.97,SIM
+170,Natália Oliveira,Marketing,Ribeirão Preto,SP,29,5689.51,SIM
+171,Eduarda Ferreira,Financeiro,Petrópolis,RJ,22,5752.19,SIM
+172,Henrique Costa,Financeiro,Rio de Janeiro,RJ,43,5425.8,SIM
+173,Rafael Gomes,Jurídico,São Paulo,SP,37,7024.74,SIM
+174,Mariana Pereira,Operações,Uberlândia,MG,29,2893.47,SIM
+175,Sabrina Santos,Jurídico,Londrina,PR,30,6957.4,NAO
+176,Mônica Araújo,Comercial,Petrópolis,RJ,41,4083.09,SIM
+177,Rafael Barbosa,Marketing,Juiz de Fora,MG,27,4070.89,SIM
+178,Enzo Almeida,Financeiro,Porto Alegre,RS,25,4247.65,SIM
+179,Ana Souza,Tecnologia,Vitória da Conquista,BA,21,7278.33,NAO
+180,Isabela Lima,Tecnologia,Campinas,SP,29,4322.39,SIM
+181,Débora Pereira,Jurídico,Belo Horizonte,MG,41,8635.08,SIM
+182,Ursula Barbosa,Operações,Londrina,PR,22,4279.91,SIM
+183,Sabrina Araújo,Jurídico,Rio de Janeiro,RJ,33,6099.68,SIM
+184,Otávio Oliveira,Jurídico,Petrópolis,RJ,33,6424.16,SIM
+185,Sabrina Rodrigues,Tecnologia,Niterói,RJ,35,6855.63,SIM
+186,Gabriela Martins,RH,Maringá,PR,40,4102.62,NAO
+187,Mariana Souza,Marketing,Belo Horizonte,MG,23,4930.91,SIM
+188,Helena Lima,Financeiro,Feira de Santana,BA,41,5469.47,SIM
+189,Vinicius Ribeiro,Tecnologia,Ribeirão Preto,SP,35,7606.32,SIM
+190,Enzo Santos,RH,Feira de Santana,BA,32,3469.36,NAO
+191,Bruno Ferreira,Tecnologia,Porto Alegre,RS,30,7164.25,SIM
+192,Gabriela Oliveira,Financeiro,Salvador,BA,31,6737.82,SIM
+193,Sabrina Santos,Marketing,Londrina,PR,42,4818.21,SIM
+194,Eduarda Silva,Marketing,Niterói,RJ,39,5432.45,NAO
+195,Sabrina Martins,Tecnologia,Ribeirão Preto,SP,44,5672.97,SIM
+196,Natália Almeida,Operações,Santos,SP,43,3552.94,SIM
+197,Henrique Souza,Operações,Petrópolis,RJ,41,5107.49,SIM
+198,Felipe Oliveira,RH,Cascavel,PR,28,4854.56,SIM
+199,Wesley Almeida,Operações,Santos,SP,33,3065.27,SIM
+200,Mariana Barbosa,Operações,Londrina,PR,24,4708.85,SIM
+201,Amanda Rodrigues,Marketing,Feira de Santana,BA,43,5352.22,SIM
+202,Caio Rodrigues,Financeiro,Contagem,MG,46,5347.29,SIM
+203,Carla Martins,Tecnologia,Ribeirão Preto,SP,28,6431.82,SIM
+204,Juliana Souza,Operações,Salvador,BA,41,3311.61,NAO
+205,Ursula Almeida,Tecnologia,Salvador,BA,31,5965.59,SIM
+206,Carla Ferreira,Operações,Vitória da Conquista,BA,23,3743.3,SIM
+207,Ana Souza,Jurídico,Londrina,PR,34,5662.27,SIM
+208,Natália Silva,Marketing,Duque de Caxias,RJ,28,5133.46,SIM
+209,Ursula Barbosa,Tecnologia,Campinas,SP,40,5545.43,NAO
+210,Bruno Nunes,Tecnologia,Petrópolis,RJ,44,7701.37,SIM
+211,Ana Ribeiro,RH,Londrina,PR,24,4217.16,SIM
+212,Leonardo Oliveira,Marketing,Cascavel,PR,39,4222.56,SIM
+213,Otávio Costa,Operações,Caxias do Sul,RS,33,2948.2,NAO
+214,Débora Santos,Financeiro,Uberlândia,MG,37,3960.52,SIM
+215,Felipe Santos,RH,São Paulo,SP,26,5138.68,SIM
+216,Lucas Nunes,RH,Juiz de Fora,MG,25,4106.68,NAO
+217,Lucas Ribeiro,Tecnologia,São Paulo,SP,44,5871.49,NAO
+218,João Pereira,Operações,São Paulo,SP,35,4474.98,SIM
+219,Vinicius Almeida,Jurídico,Niterói,RJ,18,7665.65,SIM
+220,Igor Souza,Marketing,Londrina,PR,32,3918.47,SIM
+221,Paulo Martins,Marketing,Londrina,PR,44,5695.45,SIM
+222,Nicolas Rodrigues,Financeiro,Petrópolis,RJ,33,6231.72,SIM
+223,Helena Silva,Tecnologia,Ribeirão Preto,SP,32,6486.45,SIM
+224,Bianca Ferreira,Financeiro,Santos,SP,37,5823.8,SIM
+225,Otávio Oliveira,Financeiro,São Paulo,SP,30,5566.69,SIM
+226,Henrique Lima,Operações,Belo Horizonte,MG,20,3675.1,SIM
+227,Henrique Nunes,Marketing,Caxias do Sul,RS,24,3571.09,SIM
+228,Daniel Lima,Tecnologia,Petrópolis,RJ,33,6397.0,SIM
+229,Rafael Ribeiro,Financeiro,Santos,SP,47,3992.16,SIM
+230,Zuleica Silva,Comercial,Santos,SP,42,3887.85,NAO
+231,Leonardo Gomes,Operações,Belo Horizonte,MG,43,3745.81,SIM
+232,Ana Araújo,Financeiro,Niterói,RJ,47,5064.61,SIM
+233,Enzo Ferreira,Tecnologia,Uberlândia,MG,28,7771.11,SIM
+234,Lucas Oliveira,Comercial,Salvador,BA,57,3199.79,SIM
+235,Isabela Barbosa,Financeiro,Pelotas,RS,31,4495.27,SIM
+236,Leonardo Nunes,Operações,Curitiba,PR,42,4604.24,SIM
+237,Otávio Lima,Financeiro,Ribeirão Preto,SP,36,6458.45,SIM
+238,Sabrina Martins,RH,Ribeirão Preto,SP,22,4073.89,NAO
+239,Igor Ribeiro,Financeiro,Londrina,PR,18,6539.04,SIM
+240,Juliana Ferreira,Jurídico,Feira de Santana,BA,32,5585.96,SIM
+241,Zuleica Souza,Financeiro,São Paulo,SP,18,5522.06,SIM
+242,Débora Ribeiro,Operações,Curitiba,PR,36,5205.41,SIM
+243,Quezia Souza,Comercial,Contagem,MG,34,5163.11,SIM
+244,Mônica Araújo,Marketing,Juiz de Fora,MG,33,5556.65,SIM
+245,Débora Nunes,Jurídico,Santos,SP,30,8240.6,NAO
+246,Quezia Santos,Financeiro,Cascavel,PR,18,5289.98,SIM
+247,Felipe Ferreira,Jurídico,Uberlândia,MG,45,6674.06,SIM
+248,Otávio Ferreira,Comercial,Rio de Janeiro,RJ,28,4135.97,SIM
+249,Zuleica Costa,Financeiro,São Paulo,SP,18,5613.72,SIM
+250,Karen Lima,Operações,Caxias do Sul,RS,24,2565.01,SIM
+251,Daniel Nunes,Jurídico,Maringá,PR,37,6738.16,SIM
+252,Enzo Araújo,Comercial,Campinas,SP,29,3694.28,SIM
+253,Karen Barbosa,Operações,Campinas,SP,28,3291.4,SIM
+254,Mônica Rodrigues,Operações,São Paulo,SP,33,4996.29,SIM
+255,Yasmin Oliveira,RH,São Paulo,SP,21,5362.67,SIM
+256,Olivia Gomes,Tecnologia,Campinas,SP,33,6580.8,SIM
+257,Sabrina Santos,RH,Rio de Janeiro,RJ,31,5604.19,SIM
+258,Bruno Santos,Marketing,Juiz de Fora,MG,50,4986.29,SIM
+259,Henrique Rodrigues,RH,Belo Horizonte,MG,53,4617.14,SIM
+260,Daniel Ribeiro,Tecnologia,Niterói,RJ,33,6189.35,SIM
+261,Igor Martins,RH,Campinas,SP,32,3342.38,SIM
+262,Otávio Araújo,Marketing,Campinas,SP,29,3835.3,SIM
+263,Mônica Rodrigues,Jurídico,Santos,SP,43,7598.4,SIM
+264,Carla Araújo,Operações,Porto Alegre,RS,38,3436.0,SIM
+265,Bruno Lima,Marketing,Uberlândia,MG,35,4403.12,SIM
+266,Sabrina Gomes,Comercial,Cascavel,PR,37,2872.36,SIM
+267,Daniel Araújo,Comercial,Cascavel,PR,31,4488.27,NAO
+268,Carla Pereira,Financeiro,Duque de Caxias,RJ,43,5427.79,SIM
+269,Fernanda Pereira,Jurídico,Salvador,BA,31,7901.24,SIM
+270,Gustavo Oliveira,Financeiro,Pelotas,RS,38,4346.61,SIM
+271,Bruno Nunes,Tecnologia,Petrópolis,RJ,41,7033.71,NAO
+272,Eduarda Pereira,Financeiro,São Paulo,SP,42,4443.14,SIM
+273,Otávio Costa,Tecnologia,Santos,SP,37,9376.87,SIM
+274,Gustavo Ribeiro,Operações,Pelotas,RS,46,3470.27,SIM
+275,Paulo Costa,Comercial,Ribeirão Preto,SP,39,4777.69,NAO
+276,Henrique Silva,Marketing,Uberlândia,MG,29,5403.11,SIM
+277,Carla Silva,Operações,Curitiba,PR,18,4000.5,NAO
+278,Caio Nunes,Tecnologia,Santos,SP,35,5826.64,NAO
+279,Ana Souza,Operações,Maringá,PR,41,3939.23,NAO
+280,Otávio Nunes,Operações,São Paulo,SP,28,5523.09,SIM
+281,Caio Almeida,Comercial,Petrópolis,RJ,37,3138.3,SIM
+282,Thiago Almeida,Tecnologia,Feira de Santana,BA,33,6226.74,SIM
+283,Wesley Almeida,Tecnologia,Feira de Santana,BA,27,6295.92,NAO
+284,Vinicius Almeida,Tecnologia,Niterói,RJ,35,6098.09,SIM
+285,Juliana Silva,Comercial,Petrópolis,RJ,44,5513.27,SIM
+286,Bianca Oliveira,Tecnologia,Niterói,RJ,36,6018.21,SIM
+287,Gustavo Souza,Financeiro,Belo Horizonte,MG,18,3900.8,SIM
+288,Karen Almeida,Tecnologia,Duque de Caxias,RJ,40,6200.93,SIM
+289,Eduarda Barbosa,Tecnologia,Duque de Caxias,RJ,24,6901.6,SIM
+290,Gustavo Silva,Tecnologia,Curitiba,PR,37,8287.41,SIM
+291,Juliana Nunes,Tecnologia,Porto Alegre,RS,31,6113.44,SIM
+292,Bruno Santos,Tecnologia,Maringá,PR,18,7588.64,SIM
+293,Patrícia Martins,Operações,Feira de Santana,BA,32,3534.34,SIM
+294,Fernanda Souza,Operações,Uberlândia,MG,30,3722.87,SIM
+295,Paulo Ribeiro,Comercial,Petrópolis,RJ,46,4619.93,SIM
+296,Mariana Ribeiro,RH,Maringá,PR,40,5002.27,SIM
+297,Gabriela Barbosa,RH,Santos,SP,26,4114.26,SIM
+298,Caio Costa,Operações,Santos,SP,29,3743.28,SIM
+299,Paulo Pereira,Operações,Porto Alegre,RS,35,3572.81,SIM
+300,Ursula Souza,Comercial,Pelotas,RS,19,3991.15,SIM

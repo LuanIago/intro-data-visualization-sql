@@ -1,0 +1,301 @@
+﻿id_filme,titulo,genero,classificacao,duracao_min,nota_media,disponivel_catalogo
+1,Órbita de Vidro,Ficção Científica,12 anos,121,7.9,SIM
+2,Zona de Impacto,Ação,14 anos,109,8.1,SIM
+3,Caminhos de Inverno,Drama,Livre,98,7.8,SIM
+4,Jardim Solar,Drama,Livre,104,8.4,SIM
+5,Ritmo da Aurora,Drama,12 anos,101,8.0,SIM
+6,Cidade Binária,Ficção Científica,12 anos,126,8.2,SIM
+7,Velocidade Terminal,Ação,12 anos,114,7.5,SIM
+8,Janela Azul,Drama,Livre,89,7.6,SIM
+9,Mundo de Papel,Animação,Livre,86,8.5,SIM
+10,Pulso Metálico,Ficção Científica,Livre,119,7.4,SIM
+11,Destino Sombrio 11,Romance,Livre,94,7.3,SIM
+12,Luz Digital 12,Comédia,Livre,84,6.8,SIM
+13,Origem Final 13,Animação,12 anos,70,7.4,NAO
+14,Pulsar Silencioso 14,Suspense,12 anos,125,8.4,SIM
+15,Última Silencioso 15,Ação,16 anos,116,7.9,SIM
+16,Rastro Paralelo 16,Suspense,16 anos,89,8.3,NAO
+17,Noite Infinito 17,Drama,16 anos,86,8.7,SIM
+18,Horizonte Central 18,Drama,Livre,106,8.2,SIM
+19,Memória Profundo 19,Ficção Científica,18 anos,122,8.2,SIM
+20,Labirinto Final 20,Drama,16 anos,115,7.9,SIM
+21,Horizonte Profundo 21,Drama,Livre,117,8.9,SIM
+22,Projeto Partido 22,Romance,18 anos,107,8.8,SIM
+23,Fronteira Partido 23,Drama,14 anos,126,8.8,SIM
+24,Origem Digital 24,Documentário,14 anos,107,7.5,SIM
+25,Pulsar Infinito 25,Suspense,12 anos,103,7.0,SIM
+26,Noite Final 26,Romance,12 anos,107,7.1,SIM
+27,Destino Azul 27,Drama,16 anos,79,7.9,SIM
+28,Origem Urbano 28,Suspense,16 anos,101,7.3,SIM
+29,Noite Central 29,Animação,12 anos,89,7.2,SIM
+30,Origem Profundo 30,Comédia,16 anos,89,7.2,SIM
+31,Destino Digital 31,Ficção Científica,16 anos,120,8.7,SIM
+32,Última Central 32,Animação,14 anos,76,7.3,NAO
+33,Noite Perdido 33,Ficção Científica,16 anos,116,9.3,SIM
+34,Cidade Central 34,Animação,14 anos,103,8.7,SIM
+35,Pulsar Infinito 35,Ação,Livre,124,6.7,SIM
+36,Circuito Urbano 36,Drama,Livre,106,7.6,SIM
+37,Noite Silencioso 37,Comédia,Livre,101,7.6,SIM
+38,Noite Profundo 38,Romance,14 anos,111,7.8,SIM
+39,Circuito Final 39,Drama,14 anos,89,7.8,NAO
+40,Labirinto Solar 40,Romance,Livre,87,6.7,SIM
+41,Origem Central 41,Ação,18 anos,105,6.4,SIM
+42,Projeto Azul 42,Documentário,18 anos,101,9.3,SIM
+43,Código Vermelho 43,Ação,12 anos,105,7.9,SIM
+44,Horizonte Paralelo 44,Suspense,18 anos,116,6.9,NAO
+45,Pulsar Sombrio 45,Ação,16 anos,115,8.0,SIM
+46,Pulsar Sombrio 46,Drama,18 anos,107,7.4,NAO
+47,Destino Infinito 47,Drama,14 anos,106,8.3,SIM
+48,Circuito Silencioso 48,Comédia,16 anos,73,7.2,SIM
+49,Origem Central 49,Animação,Livre,99,8.5,SIM
+50,Projeto Digital 50,Romance,18 anos,118,6.4,NAO
+51,Memória Urbano 51,Romance,12 anos,97,7.3,SIM
+52,Luz Infinito 52,Suspense,12 anos,115,7.6,NAO
+53,Origem Solar 53,Animação,14 anos,97,9.1,NAO
+54,Origem Urbano 54,Animação,12 anos,70,6.5,SIM
+55,Projeto Central 55,Comédia,16 anos,94,7.5,SIM
+56,Fronteira Paralelo 56,Suspense,12 anos,103,8.3,SIM
+57,Noite Infinito 57,Suspense,12 anos,120,5.6,SIM
+58,Projeto Sombrio 58,Comédia,12 anos,80,8.0,SIM
+59,Cidade Solar 59,Comédia,Livre,90,7.7,SIM
+60,Fronteira Solar 60,Comédia,14 anos,70,7.6,SIM
+61,Cidade Solar 61,Comédia,12 anos,85,5.5,SIM
+62,Cidade Sombrio 62,Drama,Livre,117,8.9,SIM
+63,Origem Partido 63,Comédia,16 anos,107,7.8,SIM
+64,Código Central 64,Comédia,14 anos,85,7.4,SIM
+65,Cidade Sombrio 65,Ficção Científica,14 anos,126,8.7,SIM
+66,Noite Perdido 66,Ação,Livre,128,7.1,NAO
+67,Rastro Infinito 67,Animação,18 anos,78,8.9,SIM
+68,Origem Digital 68,Suspense,18 anos,88,7.3,SIM
+69,Destino Vermelho 69,Ação,16 anos,108,8.4,SIM
+70,Memória Central 70,Ação,12 anos,78,7.6,SIM
+71,Horizonte Profundo 71,Animação,16 anos,99,8.2,NAO
+72,Ecos Paralelo 72,Animação,Livre,79,8.6,SIM
+73,Ecos Vermelho 73,Drama,16 anos,87,6.8,SIM
+74,Destino Infinito 74,Ação,12 anos,106,7.0,SIM
+75,Origem Vermelho 75,Comédia,12 anos,90,7.4,NAO
+76,Projeto Azul 76,Ficção Científica,18 anos,111,7.0,SIM
+77,Pulsar Paralelo 77,Suspense,Livre,95,6.9,SIM
+78,Origem Sombrio 78,Romance,Livre,102,6.9,SIM
+79,Ecos Solar 79,Comédia,Livre,92,6.5,SIM
+80,Origem Profundo 80,Ação,Livre,105,7.5,SIM
+81,Rastro Partido 81,Drama,14 anos,93,7.9,SIM
+82,Fronteira Profundo 82,Comédia,14 anos,77,6.8,SIM
+83,Origem Partido 83,Drama,12 anos,113,8.0,SIM
+84,Fronteira Partido 84,Drama,12 anos,117,8.4,SIM
+85,Horizonte Infinito 85,Ação,12 anos,129,7.8,SIM
+86,Destino Oculto 86,Drama,14 anos,116,8.2,SIM
+87,Origem Profundo 87,Comédia,14 anos,77,7.3,SIM
+88,Destino Sombrio 88,Ação,16 anos,95,8.2,SIM
+89,Noite Final 89,Ação,12 anos,87,7.7,SIM
+90,Cidade Paralelo 90,Ficção Científica,14 anos,122,7.3,SIM
+91,Destino Vermelho 91,Suspense,16 anos,84,8.6,SIM
+92,Circuito Profundo 92,Romance,14 anos,110,7.1,SIM
+93,Código Silencioso 93,Suspense,12 anos,101,7.5,SIM
+94,Ecos Urbano 94,Suspense,12 anos,126,7.3,SIM
+95,Labirinto Solar 95,Drama,18 anos,108,7.9,SIM
+96,Memória Silencioso 96,Drama,18 anos,104,7.1,SIM
+97,Ecos Silencioso 97,Comédia,16 anos,85,7.1,SIM
+98,Noite Oculto 98,Ficção Científica,16 anos,131,8.3,NAO
+99,Memória Solar 99,Drama,18 anos,115,7.7,NAO
+100,Pulsar Infinito 100,Ficção Científica,14 anos,101,8.9,SIM
+101,Luz Secreto 101,Drama,16 anos,95,8.0,SIM
+102,Horizonte Central 102,Suspense,14 anos,75,7.4,SIM
+103,Cidade Solar 103,Ação,14 anos,91,6.9,NAO
+104,Cidade Profundo 104,Documentário,Livre,82,8.1,SIM
+105,Labirinto Perdido 105,Drama,12 anos,104,8.3,SIM
+106,Circuito Sombrio 106,Ação,16 anos,131,7.8,SIM
+107,Última Paralelo 107,Comédia,14 anos,93,7.6,SIM
+108,Código Secreto 108,Drama,16 anos,88,8.1,SIM
+109,Noite Paralelo 109,Ficção Científica,12 anos,129,7.9,SIM
+110,Labirinto Oculto 110,Ação,Livre,101,7.0,SIM
+111,Origem Urbano 111,Ficção Científica,16 anos,105,7.2,SIM
+112,Horizonte Infinito 112,Animação,14 anos,78,7.6,SIM
+113,Código Profundo 113,Ficção Científica,12 anos,109,6.8,SIM
+114,Código Urbano 114,Romance,Livre,110,7.3,SIM
+115,Luz Sombrio 115,Comédia,Livre,100,7.2,SIM
+116,Noite Partido 116,Ação,18 anos,109,7.7,SIM
+117,Horizonte Oculto 117,Ficção Científica,14 anos,127,6.5,SIM
+118,Origem Silencioso 118,Suspense,16 anos,101,7.2,SIM
+119,Cidade Silencioso 119,Comédia,Livre,106,7.7,SIM
+120,Rastro Sombrio 120,Suspense,16 anos,101,6.1,SIM
+121,Memória Solar 121,Romance,18 anos,103,7.3,SIM
+122,Rastro Solar 122,Ação,12 anos,104,7.9,NAO
+123,Cidade Perdido 123,Drama,14 anos,71,8.3,SIM
+124,Memória Infinito 124,Comédia,Livre,100,5.3,SIM
+125,Destino Urbano 125,Drama,Livre,112,8.9,SIM
+126,Código Oculto 126,Comédia,14 anos,111,8.3,SIM
+127,Projeto Central 127,Comédia,14 anos,70,7.3,NAO
+128,Origem Profundo 128,Suspense,12 anos,110,8.4,SIM
+129,Fronteira Central 129,Ação,18 anos,123,7.9,SIM
+130,Destino Secreto 130,Ação,14 anos,108,8.5,SIM
+131,Rastro Urbano 131,Romance,14 anos,100,7.4,NAO
+132,Cidade Central 132,Ação,Livre,111,7.5,SIM
+133,Horizonte Solar 133,Ficção Científica,18 anos,153,8.6,SIM
+134,Rastro Secreto 134,Suspense,16 anos,92,8.3,SIM
+135,Cidade Sombrio 135,Ficção Científica,Livre,105,8.5,SIM
+136,Última Digital 136,Ficção Científica,12 anos,139,7.7,SIM
+137,Noite Silencioso 137,Suspense,Livre,127,7.1,NAO
+138,Circuito Final 138,Animação,16 anos,97,7.2,SIM
+139,Origem Sombrio 139,Documentário,Livre,117,8.1,SIM
+140,Rastro Solar 140,Drama,12 anos,93,7.9,SIM
+141,Labirinto Urbano 141,Ação,Livre,96,9.6,SIM
+142,Pulsar Secreto 142,Ação,14 anos,119,6.4,SIM
+143,Destino Azul 143,Ficção Científica,Livre,107,8.0,SIM
+144,Rastro Solar 144,Ficção Científica,Livre,107,7.9,SIM
+145,Rastro Infinito 145,Romance,16 anos,114,6.1,SIM
+146,Labirinto Urbano 146,Drama,12 anos,92,6.6,NAO
+147,Memória Central 147,Comédia,12 anos,113,5.9,SIM
+148,Circuito Vermelho 148,Suspense,16 anos,106,7.2,SIM
+149,Fronteira Azul 149,Ação,12 anos,109,7.6,SIM
+150,Código Partido 150,Suspense,12 anos,92,8.6,SIM
+151,Rastro Solar 151,Suspense,12 anos,85,8.6,SIM
+152,Origem Perdido 152,Ficção Científica,18 anos,100,8.5,SIM
+153,Rastro Solar 153,Documentário,14 anos,80,7.7,SIM
+154,Cidade Perdido 154,Suspense,12 anos,94,6.9,SIM
+155,Circuito Azul 155,Ação,Livre,117,8.2,SIM
+156,Origem Central 156,Animação,12 anos,77,8.7,SIM
+157,Rastro Partido 157,Ficção Científica,Livre,86,8.1,NAO
+158,Origem Sombrio 158,Comédia,12 anos,87,7.5,SIM
+159,Pulsar Infinito 159,Ação,12 anos,120,6.9,SIM
+160,Última Perdido 160,Ficção Científica,14 anos,70,8.2,SIM
+161,Código Azul 161,Ficção Científica,14 anos,131,7.4,SIM
+162,Destino Azul 162,Comédia,18 anos,110,7.3,SIM
+163,Fronteira Perdido 163,Ação,12 anos,99,8.2,SIM
+164,Projeto Final 164,Animação,18 anos,92,7.8,SIM
+165,Labirinto Digital 165,Comédia,16 anos,89,6.7,NAO
+166,Pulsar Paralelo 166,Drama,Livre,113,7.7,NAO
+167,Cidade Urbano 167,Ação,16 anos,96,8.4,SIM
+168,Última Solar 168,Drama,16 anos,128,8.8,SIM
+169,Cidade Infinito 169,Drama,16 anos,118,7.6,SIM
+170,Labirinto Secreto 170,Comédia,14 anos,90,7.4,SIM
+171,Pulsar Secreto 171,Drama,14 anos,131,8.4,SIM
+172,Projeto Infinito 172,Ficção Científica,12 anos,90,6.9,SIM
+173,Horizonte Partido 173,Comédia,16 anos,91,6.3,SIM
+174,Ecos Oculto 174,Romance,14 anos,112,6.8,SIM
+175,Código Silencioso 175,Romance,Livre,97,7.1,NAO
+176,Pulsar Digital 176,Suspense,12 anos,110,7.4,SIM
+177,Código Oculto 177,Suspense,14 anos,83,8.0,SIM
+178,Destino Infinito 178,Ação,14 anos,119,6.9,SIM
+179,Memória Profundo 179,Animação,14 anos,86,8.8,SIM
+180,Horizonte Paralelo 180,Comédia,16 anos,89,7.2,NAO
+181,Origem Digital 181,Ação,Livre,118,8.6,NAO
+182,Fronteira Digital 182,Ficção Científica,14 anos,93,7.1,SIM
+183,Ecos Secreto 183,Ficção Científica,18 anos,110,8.9,SIM
+184,Noite Silencioso 184,Drama,12 anos,124,9.0,SIM
+185,Noite Oculto 185,Ação,Livre,116,7.0,SIM
+186,Noite Secreto 186,Ficção Científica,16 anos,121,7.6,SIM
+187,Pulsar Silencioso 187,Drama,16 anos,96,8.1,SIM
+188,Cidade Solar 188,Ação,16 anos,109,8.6,SIM
+189,Código Vermelho 189,Ação,12 anos,105,8.3,SIM
+190,Destino Infinito 190,Suspense,12 anos,105,8.4,SIM
+191,Código Azul 191,Animação,16 anos,111,6.9,NAO
+192,Horizonte Infinito 192,Documentário,12 anos,93,7.3,SIM
+193,Origem Oculto 193,Drama,Livre,93,6.4,SIM
+194,Memória Sombrio 194,Animação,12 anos,76,8.5,NAO
+195,Origem Infinito 195,Comédia,16 anos,103,6.9,SIM
+196,Destino Secreto 196,Documentário,14 anos,116,7.4,SIM
+197,Origem Infinito 197,Ação,Livre,107,7.0,SIM
+198,Origem Profundo 198,Drama,Livre,126,7.4,SIM
+199,Labirinto Perdido 199,Documentário,18 anos,93,7.5,SIM
+200,Circuito Digital 200,Drama,18 anos,96,7.2,SIM
+201,Origem Urbano 201,Documentário,12 anos,102,8.4,SIM
+202,Origem Profundo 202,Ficção Científica,18 anos,121,8.4,NAO
+203,Noite Central 203,Ação,Livre,130,8.2,SIM
+204,Luz Paralelo 204,Romance,14 anos,104,6.9,SIM
+205,Circuito Paralelo 205,Suspense,12 anos,107,7.4,SIM
+206,Destino Digital 206,Ficção Científica,16 anos,124,6.9,SIM
+207,Destino Digital 207,Suspense,18 anos,100,8.1,SIM
+208,Memória Azul 208,Ficção Científica,14 anos,139,8.1,NAO
+209,Circuito Oculto 209,Ficção Científica,Livre,104,8.7,SIM
+210,Última Urbano 210,Ficção Científica,14 anos,135,7.2,SIM
+211,Rastro Digital 211,Ação,12 anos,107,8.4,SIM
+212,Horizonte Profundo 212,Comédia,18 anos,100,7.0,SIM
+213,Circuito Urbano 213,Ação,12 anos,114,6.9,NAO
+214,Horizonte Paralelo 214,Animação,12 anos,90,8.3,SIM
+215,Código Azul 215,Drama,12 anos,113,8.2,SIM
+216,Ecos Vermelho 216,Ficção Científica,12 anos,114,6.7,SIM
+217,Ecos Digital 217,Ação,Livre,124,7.8,SIM
+218,Circuito Oculto 218,Ação,16 anos,108,6.8,SIM
+219,Última Partido 219,Comédia,16 anos,115,7.3,SIM
+220,Horizonte Infinito 220,Romance,18 anos,88,7.5,SIM
+221,Noite Central 221,Animação,14 anos,77,7.7,SIM
+222,Noite Silencioso 222,Comédia,16 anos,105,6.6,SIM
+223,Rastro Secreto 223,Ficção Científica,14 anos,122,8.7,SIM
+224,Ecos Central 224,Comédia,12 anos,121,5.3,SIM
+225,Projeto Profundo 225,Comédia,16 anos,113,6.7,SIM
+226,Circuito Secreto 226,Ação,12 anos,111,7.9,SIM
+227,Última Vermelho 227,Ação,16 anos,120,7.9,NAO
+228,Horizonte Oculto 228,Documentário,Livre,70,8.6,SIM
+229,Rastro Final 229,Comédia,14 anos,102,7.0,SIM
+230,Fronteira Azul 230,Ficção Científica,16 anos,97,7.8,SIM
+231,Código Solar 231,Ação,14 anos,106,7.4,SIM
+232,Labirinto Silencioso 232,Ficção Científica,12 anos,134,8.4,SIM
+233,Projeto Partido 233,Comédia,16 anos,88,7.0,SIM
+234,Destino Infinito 234,Comédia,12 anos,90,7.5,SIM
+235,Última Digital 235,Comédia,14 anos,102,7.6,SIM
+236,Noite Vermelho 236,Romance,16 anos,95,6.5,SIM
+237,Memória Profundo 237,Ficção Científica,Livre,106,7.3,SIM
+238,Labirinto Final 238,Ação,Livre,102,7.7,NAO
+239,Pulsar Paralelo 239,Ação,16 anos,142,8.6,SIM
+240,Cidade Final 240,Comédia,12 anos,95,7.5,SIM
+241,Cidade Sombrio 241,Drama,16 anos,103,8.1,NAO
+242,Labirinto Solar 242,Ação,12 anos,99,7.6,SIM
+243,Rastro Sombrio 243,Ação,16 anos,112,8.2,SIM
+244,Horizonte Vermelho 244,Ação,12 anos,107,7.9,SIM
+245,Noite Paralelo 245,Drama,18 anos,124,9.3,SIM
+246,Código Paralelo 246,Drama,Livre,95,7.9,SIM
+247,Cidade Solar 247,Comédia,14 anos,73,6.3,SIM
+248,Luz Infinito 248,Ficção Científica,18 anos,120,8.0,SIM
+249,Origem Secreto 249,Ficção Científica,18 anos,86,7.9,SIM
+250,Luz Silencioso 250,Ação,12 anos,104,7.9,SIM
+251,Labirinto Solar 251,Comédia,14 anos,108,6.1,NAO
+252,Labirinto Secreto 252,Drama,14 anos,116,6.8,NAO
+253,Cidade Infinito 253,Drama,14 anos,97,8.2,SIM
+254,Projeto Azul 254,Drama,14 anos,123,9.8,NAO
+255,Origem Oculto 255,Drama,14 anos,115,8.0,SIM
+256,Luz Oculto 256,Ação,16 anos,106,7.0,SIM
+257,Memória Final 257,Drama,12 anos,116,8.1,SIM
+258,Destino Paralelo 258,Romance,14 anos,95,7.3,SIM
+259,Destino Partido 259,Drama,16 anos,122,8.9,SIM
+260,Última Vermelho 260,Ficção Científica,18 anos,121,7.9,SIM
+261,Ecos Partido 261,Animação,12 anos,97,8.9,SIM
+262,Ecos Infinito 262,Comédia,18 anos,100,7.5,SIM
+263,Noite Central 263,Suspense,Livre,113,7.5,SIM
+264,Origem Vermelho 264,Comédia,18 anos,98,8.4,NAO
+265,Ecos Digital 265,Romance,16 anos,107,6.9,NAO
+266,Horizonte Oculto 266,Comédia,18 anos,114,7.5,SIM
+267,Circuito Oculto 267,Drama,12 anos,101,7.9,SIM
+268,Código Solar 268,Animação,Livre,93,8.0,SIM
+269,Noite Silencioso 269,Animação,14 anos,81,6.4,NAO
+270,Labirinto Profundo 270,Ficção Científica,14 anos,114,7.8,NAO
+271,Projeto Partido 271,Comédia,14 anos,97,8.5,SIM
+272,Pulsar Urbano 272,Ficção Científica,14 anos,126,7.5,SIM
+273,Última Partido 273,Drama,Livre,101,8.5,SIM
+274,Destino Urbano 274,Ação,Livre,110,7.4,SIM
+275,Memória Sombrio 275,Romance,Livre,124,7.5,SIM
+276,Última Oculto 276,Documentário,18 anos,94,8.8,NAO
+277,Última Profundo 277,Drama,14 anos,126,7.4,SIM
+278,Origem Secreto 278,Ficção Científica,14 anos,121,6.5,SIM
+279,Última Sombrio 279,Drama,14 anos,109,7.8,SIM
+280,Projeto Digital 280,Ficção Científica,14 anos,124,6.7,SIM
+281,Circuito Vermelho 281,Animação,18 anos,73,7.2,SIM
+282,Fronteira Solar 282,Animação,14 anos,75,7.3,NAO
+283,Origem Oculto 283,Ficção Científica,14 anos,125,7.0,SIM
+284,Ecos Perdido 284,Ação,12 anos,107,8.2,NAO
+285,Rastro Profundo 285,Ação,18 anos,127,8.2,SIM
+286,Luz Sombrio 286,Romance,Livre,83,6.1,SIM
+287,Horizonte Vermelho 287,Suspense,18 anos,98,6.7,NAO
+288,Pulsar Final 288,Documentário,12 anos,121,7.4,SIM
+289,Pulsar Infinito 289,Suspense,14 anos,87,8.3,NAO
+290,Código Sombrio 290,Comédia,16 anos,84,6.1,SIM
+291,Fronteira Solar 291,Suspense,18 anos,87,7.9,SIM
+292,Rastro Silencioso 292,Drama,Livre,126,8.1,SIM
+293,Memória Oculto 293,Comédia,18 anos,93,7.2,SIM
+294,Horizonte Perdido 294,Romance,12 anos,97,8.2,NAO
+295,Labirinto Sombrio 295,Animação,12 anos,88,7.9,NAO
+296,Memória Azul 296,Ficção Científica,Livre,106,7.9,NAO
+297,Rastro Partido 297,Ação,12 anos,115,6.7,SIM
+298,Cidade Silencioso 298,Romance,12 anos,84,8.3,NAO
+299,Circuito Vermelho 299,Ação,12 anos,103,8.1,SIM
+300,Cidade Sombrio 300,Drama,Livre,99,7.7,SIM
