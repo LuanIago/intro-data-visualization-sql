@@ -42,6 +42,6 @@ intro-visualizacao-dados-sql/
 │   └── README.md
 ├── trabalho-03-recuperacao-e-filtragem-de-dados-com-sql/
 │   └── README.md
-├── trabalho-04/
+├── trabalho-04-analise-avancada-de-dados-com-sql/
 │   └── README.md
 └── README.md
